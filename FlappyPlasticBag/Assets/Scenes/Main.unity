@@ -341,7 +341,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a8b48a1929bd42fc8a74e9281c1f25e, type: 3}
   m_Name: 
@@ -1003,14 +1003,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4b1c4bb0672b4942b18c86a60bc10ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  columnPoolSize: 5
   columnPrefab: {fileID: 1346398849679971510, guid: 357f1155074ff4e66bd16068400b5c70,
     type: 3}
-  treePrefab: {fileID: 6351370678858355597, guid: 6bf635cf54ffa4ac9974e9e52c0fb86d,
+  columnTreePrefab: {fileID: 6351370678858355597, guid: 6bf635cf54ffa4ac9974e9e52c0fb86d,
     type: 3}
   spawnRate: 4
-  comlumnMin: -2
-  columnMax: 2
 --- !u!1 &1763071343
 GameObject:
   m_ObjectHideFlags: 0
