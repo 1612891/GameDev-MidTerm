@@ -38,6 +38,7 @@ namespace UB.Simple2dWeatherEffects.Standard
             //_previousPosition = CamTransform.position;
         }
 
+
         void OnRenderImage(RenderTexture source, RenderTexture destination)
         {
             if (_material)

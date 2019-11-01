@@ -352,7 +352,7 @@ MonoBehaviour:
   Size: 1.12
   HorizontalSpeed: 0.2
   VerticalSpeed: 0
-  Density: 1.24
+  Density: 0
   Shader: {fileID: 4800000, guid: 00e888b8dfe2842c1a10e04b2d083b64, type: 3}
 --- !u!20 &519420031
 Camera:
@@ -975,6 +975,8 @@ MonoBehaviour:
   ScoreText: {fileID: 1983984886}
   gameOver: 0
   scrollSpeed: -1.5
+  isFog: 0
+  scoreTheshold: 5
 --- !u!4 &1704926582
 Transform:
   m_ObjectHideFlags: 0
