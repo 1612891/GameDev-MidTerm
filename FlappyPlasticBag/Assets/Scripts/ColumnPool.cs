@@ -6,6 +6,8 @@ public class ColumnPool : MonoBehaviour
 {
     public int columnPoolSize = 5;
     public GameObject columnPrefab;
+    public GameObject treePrefab;
+
     public float spawnRate = 4f;
     public float comlumnMin = -1f;
     public float columnMax = 3.5f;
@@ -23,7 +25,9 @@ public class ColumnPool : MonoBehaviour
         for (int i=0;i<columnPoolSize;i++)
         {
             columns[i] = (GameObject)Instantiate(columnPrefab, objectPoolPosition, Quaternion.identity);
+        
         }
+        
     }
 
     // Update is called once per frame
