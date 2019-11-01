@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: 2745127995b0242ae8f4612f329a1dff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5148751032485047010
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_0
+  - first:
+      213: -2379933377570453700
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_1
+  - first:
+      213: -6420177129610344163
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_2
+  - first:
+      213: -4465376614705086535
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_3
+  - first:
+      213: 1728663113534828085
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_4
+  - first:
+      213: 1217311354892776139
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_5
+  - first:
+      213: -8019710508768844157
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_6
+  - first:
+      213: -1085791893854541636
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_7
+  - first:
+      213: -7629915815730199871
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_8
+  - first:
+      213: -6397247556666080566
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_9
+  - first:
+      213: -3308589341161885127
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_10
+  - first:
+      213: -6436821643882271003
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_11
+  - first:
+      213: 4382896055297222332
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_12
+  - first:
+      213: -1767621300030118303
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_13
+  - first:
+      213: 7348785073085844373
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_14
+  - first:
+      213: 8719894903144503268
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_15
+  - first:
+      213: 7325786959197990972
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_16
+  - first:
+      213: -2940163312486781708
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_17
+  - first:
+      213: -7551201683206662602
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_18
+  - first:
+      213: 1388660706003600936
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_19
+  - first:
+      213: 4223843856536691244
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_20
+  - first:
+      213: -8364349587779801028
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_21
+  - first:
+      213: 2017064328820027088
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_22
+  - first:
+      213: -6217634903566818977
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_23
+  - first:
+      213: -9066340921099548695
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_24
+  - first:
+      213: 8509761836495941119
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_25
+  - first:
+      213: -5714939859367456822
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_26
+  - first:
+      213: 2811305444227491484
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_27
+  - first:
+      213: 3673746816517913550
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_28
+  - first:
+      213: -3092547502269405229
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_29
+  - first:
+      213: 637468030795695482
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_30
+  - first:
+      213: 3232781710665295284
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_31
+  - first:
+      213: 155355123194833470
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_32
+  - first:
+      213: 6568721279758427716
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_33
+  - first:
+      213: -158954100955284420
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_34
+  - first:
+      213: -1996100025831389282
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_35
+  - first:
+      213: -2070339747348236438
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_36
+  - first:
+      213: -6618635960590619914
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_37
+  - first:
+      213: 8007780926592778295
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_38
+  - first:
+      213: -5578399603449863016
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_39
+  - first:
+      213: 1727027396544904281
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_40
+  - first:
+      213: -3557529112944463933
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_41
+  - first:
+      213: -6536214125171825891
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_42
+  - first:
+      213: -5985556656101047959
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_43
+  - first:
+      213: 4136023818680621769
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_44
+  - first:
+      213: -7691337556564805420
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_45
+  - first:
+      213: -1201178107712153142
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_46
+  - first:
+      213: -1470911875089996053
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_47
+  - first:
+      213: 2863464874914418356
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_48
+  - first:
+      213: -8729878437957153083
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_49
+  - first:
+      213: -544120034524606181
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_50
+  - first:
+      213: 7864044966922451226
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_51
+  - first:
+      213: -6468029095961565322
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_52
+  - first:
+      213: -6997929599013822110
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_53
+  - first:
+      213: -4328109710559034247
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_54
+  - first:
+      213: -2155868834646572229
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_55
+  - first:
+      213: 2953912824311930364
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_56
+  - first:
+      213: -4855908665223749422
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_57
+  - first:
+      213: 4660366497926561508
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_58
+  - first:
+      213: 7000290581580035897
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_59
+  - first:
+      213: -6699529207777174690
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_60
+  - first:
+      213: -3503889375851065954
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_61
+  - first:
+      213: 6733548015674581213
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_62
+  - first:
+      213: -7687010417759208197
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_63
+  - first:
+      213: -8116630972245790375
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_64
+  - first:
+      213: 1754182371220658964
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_65
+  - first:
+      213: 5824644948644023027
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_66
+  - first:
+      213: -1092140777682334657
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_67
+  - first:
+      213: 728995503990902698
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_68
+  - first:
+      213: -1395732659775168740
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_69
+  - first:
+      213: -3297024428504130116
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_70
+  - first:
+      213: -2193724755046631155
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_71
+  - first:
+      213: -8339954626381765011
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_72
+  - first:
+      213: -3177336434985832659
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_73
+  - first:
+      213: -7286634297882082026
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_74
+  - first:
+      213: 6201808586028190389
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_75
+  - first:
+      213: 995272289163385445
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_76
+  - first:
+      213: 8208249454815424371
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_77
+  - first:
+      213: 49734524740554912
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_78
+  - first:
+      213: -4234289782924827975
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_79
+  - first:
+      213: 5433531950577858427
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_80
+  - first:
+      213: -4486778083361761690
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_81
+  - first:
+      213: -714881874102149256
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_82
+  - first:
+      213: -1591144365241612521
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_83
+  - first:
+      213: -4362179256143195950
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_84
+  - first:
+      213: 7186173405370596177
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_85
+  - first:
+      213: 6732744222209722443
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_86
+  - first:
+      213: -1261095866258764343
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_87
+  - first:
+      213: 6877243872979770171
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_88
+  - first:
+      213: -6957055183454881817
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_89
+  - first:
+      213: 6669290348876465645
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_90
+  - first:
+      213: 3103451731354597910
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_91
+  - first:
+      213: -1469853697427407859
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_92
+  - first:
+      213: -4632631024013145734
+    second: Custom Edited - Pokemon Customs - 187 Hoppip_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 427
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2cbec0bb1ba454aa850a2fc84e38ce
+      internalID: 5148751032485047010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 427
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5462f340a1f04b7a9980959b26cb817
+      internalID: -2379933377570453700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 425
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c628f4418645d1a94482981fa283f
+      internalID: -6420177129610344163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 424
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5966c210ef48bc931d11e9a436e61
+      internalID: -4465376614705086535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 425
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72345d10e31504537b4799e9b5852aa9
+      internalID: 1728663113534828085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f7e24171be44f47b1a023f655172f1
+      internalID: 1217311354892776139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ca946091ae4c208ad7206cea332f0
+      internalID: -8019710508768844157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 411
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc88062151c45228992f1df211cd79
+      internalID: -1085791893854541636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c422d215e2cf642ab8e542d473daa899
+      internalID: -7629915815730199871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a367e9014f634e148783c1021d45860
+      internalID: -6397247556666080566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5d4a4f6463940e2a242341daf7af4b
+      internalID: -3308589341161885127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 382
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98831cebc2534791bea9ef8dcba1c1f
+      internalID: -6436821643882271003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 381
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a5fcaef6cc4d3ca17127a8f82c875
+      internalID: 4382896055297222332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 382
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dbad03b50e64ed0823881cf0adb7ef
+      internalID: -1767621300030118303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 382
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55a374e8aca64b0f8b20ce643bc42a1
+      internalID: 7348785073085844373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 328
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27659c23bd5314c7a9fcb2188071ad83
+      internalID: 8719894903144503268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035bb7ad716d4fb8828eeebc4e5471d
+      internalID: 7325786959197990972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51b6764c98d04b1aba5418e64dd3cf5
+      internalID: -2940163312486781708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af248a947e224d4db2d3c97cb94e986
+      internalID: -7551201683206662602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa074f16b2d4ba28aab53a30d82525
+      internalID: 1388660706003600936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 323
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd066e5357784e0ca487eeb2b06bca6
+      internalID: 4223843856536691244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 315
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6973280fe0edc47838518bb24c20dddb
+      internalID: -8364349587779801028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097597c54006b409f89fa3011598b28b
+      internalID: 2017064328820027088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5828cfc1bab244c48dab82be5d5233d
+      internalID: -6217634903566818977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d63726770a41fc86b14c95fdc1bd0
+      internalID: -9066340921099548695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8576b5ac44462aad1b989f891e460
+      internalID: 8509761836495941119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 315
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834eafc805a7401ca240686bc629af0
+      internalID: -5714939859367456822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 315
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4ccf9f8ea54d62bfd0c6fa862e289
+      internalID: 2811305444227491484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb54114dee3a4bb3add340167112f06
+      internalID: 3673746816517913550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 268
+        width: 222
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13567117683cb4347ad4fd1f5ceaa66b
+      internalID: -3092547502269405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02a7c435463448d861320b18e9ef29
+      internalID: 637468030795695482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71b386fb2b4e41e0923613da14836ee
+      internalID: 3232781710665295284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e57a27228e2d4c99a6a35944808b027
+      internalID: 155355123194833470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31347244ce06240f0a7de19b0e36d84b
+      internalID: 6568721279758427716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 223
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d501ac3606e409e93906d841e4a359
+      internalID: -158954100955284420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 223
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853b17b19a0d486a939c4074adc63e0
+      internalID: -1996100025831389282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cabe56abc20a40e3a51e6ddf0ae1c13
+      internalID: -2070339747348236438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b697f54651294b29a2bf182621fc9ab
+      internalID: -6618635960590619914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 214
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac540e2768845dcb7d7cea234207a1
+      internalID: 8007780926592778295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 214
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa381505c2642c1bc0abce82a2d538
+      internalID: -5578399603449863016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 215
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427796279d5146dda984ef6f2ec7840
+      internalID: 1727027396544904281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 215
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f754675cc41141feb15d449417edd42
+      internalID: -3557529112944463933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30edf4f73373423990ed0f17f1aaba4
+      internalID: -6536214125171825891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f883799f0e2f4542baa203605427e0a
+      internalID: -5985556656101047959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d3f8e6064c6468aa075f30ac72838a
+      internalID: 4136023818680621769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ead2c70897d472e94aa8782c269180
+      internalID: -7691337556564805420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8e7609e6034f509f6573fde1cbeeb
+      internalID: -1201178107712153142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 156
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd46d00750624ec2be81d47cf79c3fa
+      internalID: -1470911875089996053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 156
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18c3002b34b4055bae1128c20e0f6b
+      internalID: 2863464874914418356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be0e9985c9f94bbf8a358fe63afa518
+      internalID: -8729878437957153083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8adfac272046a78c313ad5ecff935
+      internalID: -544120034524606181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 46
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7f8cd654474e49a91946b9c0905be
+      internalID: 7864044966922451226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ddc42f0e996494fa17a109ff5cf420
+      internalID: -6468029095961565322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b31850bcc5a84328ae1481c66b28430
+      internalID: -6997929599013822110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05b2a3e1089f43a4a526edbac8ff372
+      internalID: -4328109710559034247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a580bb31b8457f96a27c9646b8a13
+      internalID: -2155868834646572229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49363bdf19534379a81fee67dbdf064
+      internalID: 2953912824311930364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53c307f292c4e699fd0d13480fa460
+      internalID: -4855908665223749422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f1859d617042dd98c31c667b03259
+      internalID: 4660366497926561508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc19bfe18284c5b976fef2079e1c7c
+      internalID: 7000290581580035897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c2de9f62f4846d7bb6af71870c5b8b
+      internalID: -6699529207777174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6636bded60c1488c8fe13427988b525
+      internalID: -3503889375851065954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec14d62f05e412e8d75fb8fe2bf2f8
+      internalID: 6733548015674581213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_63
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b6ca9ca53f445b9914645078f167d
+      internalID: -7687010417759208197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ac5b0ba6d047a6ae1e07eafc3b2aa
+      internalID: -8116630972245790375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da7f2b375a54762bd6fff73d1b93b1
+      internalID: 1754182371220658964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da16aa34e3e4f5bb68f02d6082c6cb
+      internalID: 5824644948644023027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59f16bc7436c4388ad34a4603ca35f8
+      internalID: -1092140777682334657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a40b1a9da1343748fab68e3634fa05
+      internalID: 728995503990902698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317ef566b1894620967687f80f9fe6f
+      internalID: -1395732659775168740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0253ed0bfc4219afb9ce80a3ac601
+      internalID: -3297024428504130116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7880a8d97fd144f3eb8bad6bc975c541
+      internalID: -2193724755046631155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea203cd5b2c3d491da699b9e5446c532
+      internalID: -8339954626381765011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc848d2fe8b5486e840f5bebb2cdff8
+      internalID: -3177336434985832659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d399313fd3e43caad4055a9c6781ee
+      internalID: -7286634297882082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 85
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930b904def59848a2979d65aeafedb26
+      internalID: 6201808586028190389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 68
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c096566bd66417aa4b4ecfae4a428d
+      internalID: 995272289163385445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 68
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc64ac7388454401c93b913d2383b171
+      internalID: 8208249454815424371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cd3f8873e6495d992d67026e20455
+      internalID: 49734524740554912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b2a4545744a44439086cae9e7f421e
+      internalID: -4234289782924827975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_80
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d78940ffd8421c91b32af242cea0e
+      internalID: 5433531950577858427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349badc6d408a4bb1b6620b298f8cdb6
+      internalID: -4486778083361761690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da5ee57ad984cb4b4450ee5ea67236
+      internalID: -714881874102149256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7aeebe4865b4fffab85aa7efb7fb4e
+      internalID: -1591144365241612521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf902e4eaa7421ab97f9b3d096f38d
+      internalID: -4362179256143195950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4689e8d1401046769ab5fbdd29ac8fd
+      internalID: 7186173405370596177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8d28bc4545436ca61ae55382e16ec
+      internalID: 6732744222209722443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483da7f68196a4c5b8790271c5062cb8
+      internalID: -1261095866258764343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca8b4dadbd7445cea16f15a5bbcbf7c
+      internalID: 6877243872979770171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_89
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773227a1827346ca83100ec0c7ebfab
+      internalID: -6957055183454881817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 15
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc4f02b51d74771953eece231fb0e2
+      internalID: 6669290348876465645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7637693e93447691c97be4568d4e1
+      internalID: 3103451731354597910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34ee114c5154f7797576b5ba548e4a
+      internalID: -1469853697427407859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - 187 Hoppip_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e861b3ab334691b9487f0c169fb4a
+      internalID: -4632631024013145734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b27dc390bb84245189da23410b6a4724
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
