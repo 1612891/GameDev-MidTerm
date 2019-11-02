@@ -118,19 +118,26 @@ public class GameControl : MonoBehaviour
     {
         gameOverText.SetActive(true);
         gameHighScoreText.SetActive(true);
-        string path = "Assets/Resources/high_score.txt";
-        StreamReader reader = new StreamReader(path);
-        string content = reader.ReadToEnd();
-        reader.Close();
-        int highScore = int.Parse(content);
+        //string path = "Assets/Resources/high_score.txt";
+        //StreamReader reader = new StreamReader(path);
+        //string content = reader.ReadToEnd();
+        //reader.Close();
+        //int highScore = int.Parse(content);
+        //if (highScore <= score)
+        //{
+        //    highScore = score;
+        //}
+        //highScoreText.text = highScore.ToString();
+        //StreamWriter writer = new StreamWriter(path, false);
+        //writer.WriteLine(highScore.ToString());
+        //writer.Close();
+        int highScore = PlayerPrefs.GetInt("high_score", 0);
         if (highScore <= score)
         {
             highScore = score;
         }
         highScoreText.text = highScore.ToString();
-        StreamWriter writer = new StreamWriter(path, false);
-        writer.WriteLine(highScore.ToString());
-        writer.Close();
+        PlayerPrefs.SetInt("high_score", highScore);
         gameOver = true;
     }
 }
