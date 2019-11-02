@@ -4,16 +4,25 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UB.Simple2dWeatherEffects.Standard;
+using System.IO;
 
 public class GameControl : MonoBehaviour
 {
     public static GameControl instance;
     public GameObject gameOverText;
+    public GameObject gameHighScoreText;
+    public Text highScoreText;
     public Text ScoreText;
     public bool gameOver = false;
     public float scrollSpeed = -1.5f;
     public bool isFog = false;
     public int scoreTheshold = 2;
+
+    public AudioSource flapSound;
+    public AudioSource hitSound;
+    public AudioSource dieSound;
+    public AudioSource pointSound;
+    public AudioSource changeSound;
     private int score = 0;
 
     public GameObject polluter;
@@ -59,6 +68,7 @@ public class GameControl : MonoBehaviour
         {
             if (isExit && isSwitch)
             {
+                changeSound.Play();
                 Debug.Log("Communism iz shit " + isExit.ToString() + isSwitch.ToString());
                 if (activeObject == polluter)
                 {
@@ -84,6 +94,7 @@ public class GameControl : MonoBehaviour
         }
         score++;
         ScoreText.text = "Score: " + score.ToString();
+        pointSound.Play();
         if (score % scoreTheshold == 0)
         {
             isSwitch = true;
@@ -106,6 +117,20 @@ public class GameControl : MonoBehaviour
     public void BirdDied()
     {
         gameOverText.SetActive(true);
+        gameHighScoreText.SetActive(true);
+        string path = "Assets/Resources/high_score.txt";
+        StreamReader reader = new StreamReader(path);
+        string content = reader.ReadToEnd();
+        reader.Close();
+        int highScore = int.Parse(content);
+        if (highScore <= score)
+        {
+            highScore = score;
+        }
+        highScoreText.text = highScore.ToString();
+        StreamWriter writer = new StreamWriter(path, false);
+        writer.WriteLine(highScore.ToString());
+        writer.Close();
         gameOver = true;
     }
 }

@@ -27,6 +27,7 @@ public class bird : MonoBehaviour
                 rb2d.velocity = Vector2.zero;
                 rb2d.AddForce(new Vector2(0, upForce));
                 anim.SetTrigger("Flap");
+                GameControl.instance.flapSound.Play();
             }
         }
     }
@@ -36,7 +37,9 @@ public class bird : MonoBehaviour
         if (other.gameObject.name != "Seed" && other.gameObject.name != "Polluter")
         {
             isDead = true;
+            GameControl.instance.hitSound.Play();
             anim.SetTrigger("Die");
+            GameControl.instance.dieSound.Play();
             GameControl.instance.BirdDied();
         }
        
