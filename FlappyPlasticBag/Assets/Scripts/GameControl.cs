@@ -16,6 +16,25 @@ public class GameControl : MonoBehaviour
     public int scoreTheshold = 2;
     private int score = 0;
 
+    public GameObject polluter;
+    public GameObject seed;
+    public GameObject activeObject;
+
+    public bool isSwitch = false;
+    public bool isExit = false;
+
+    void GoToHell(GameObject go)
+    {
+        go.GetComponent<SpriteRenderer>().sortingLayerName = "Default";
+        go.GetComponent<PolygonCollider2D>().enabled = false;
+    }
+
+    void BringToLife(GameObject go)
+    {
+        go.GetComponent<SpriteRenderer>().sortingLayerName = "Foreground";
+        go.GetComponent<PolygonCollider2D>().enabled = true;
+        activeObject = go;
+    }
     // Start is called before the first frame update
     void Awake()
     {
@@ -27,6 +46,7 @@ public class GameControl : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        BringToLife(polluter);
     }
 
     // Update is called once per frame
@@ -35,6 +55,24 @@ public class GameControl : MonoBehaviour
         if (gameOver == true && Input.GetKeyDown(KeyCode.Space))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        } else
+        {
+            if (isExit && isSwitch)
+            {
+                Debug.Log("Communism iz shit " + isExit.ToString() + isSwitch.ToString());
+                if (activeObject == polluter)
+                {
+                    GoToHell(polluter);
+                    BringToLife(seed);
+                }
+                else
+                {
+                    GoToHell(seed);
+                    BringToLife(polluter);
+                }
+                isSwitch = false;
+                //isExit = false;
+            }
         }
     }
 
@@ -48,14 +86,20 @@ public class GameControl : MonoBehaviour
         ScoreText.text = "Score: " + score.ToString();
         if (score % scoreTheshold == 0)
         {
+            isSwitch = true;
             D2FogsPE d = Camera.main.GetComponent<D2FogsPE>();
             isFog = !isFog;
             if (isFog)
+            {
                 d.Density = 1f;
+            }
             else
+            {
                 d.Density = 0f;
+            }
             scrollSpeed *= 1.2f;
             GetComponent<ColumnPool>().spawnRate *= 0.83f;
+            
         }
     }
 
