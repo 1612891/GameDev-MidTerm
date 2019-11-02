@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class ColumnPool : MonoBehaviour
 {
-    public int columnPoolSize = 5;
+    private int columnPoolSize = 0;
     public GameObject columnPrefab;
-    public GameObject treePrefab;
+    public GameObject columnTreePrefab;
 
     public float spawnRate = 4f;
-    public float comlumnMin = -1f;
-    public float columnMax = 3.5f;
+    private float comlumnMin = -2f;
+    private float columnMax = 2f;
 
     private GameObject[] columns;
     private Vector2 objectPoolPosition = new Vector2(-15f,-25f);
@@ -21,13 +21,25 @@ public class ColumnPool : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //columns = new GameObject[columnPoolSize];
+        //for (int i=0;i<columnPoolSize;i++)
+        //{
+        //    columns[i] = (GameObject)Instantiate(columnPrefab, objectPoolPosition, Quaternion.identity);
+
+        //}
+        columnPoolSize = GameControl.instance.scoreTheshold * 2;
         columns = new GameObject[columnPoolSize];
-        for (int i=0;i<columnPoolSize;i++)
+        for (int i = 0; i < columnPoolSize / 2; i++)
+        {
+            columns[i] = (GameObject)Instantiate(columnTreePrefab, objectPoolPosition, Quaternion.identity);
+
+        }
+        for (int i = columnPoolSize / 2; i < columnPoolSize; i++)
         {
             columns[i] = (GameObject)Instantiate(columnPrefab, objectPoolPosition, Quaternion.identity);
-        
+
         }
-        
+
     }
 
     // Update is called once per frame
@@ -38,7 +50,10 @@ public class ColumnPool : MonoBehaviour
         {
             timeSinceLastSpawned = 0;
             float spawnYPosition = Random.Range(comlumnMin, columnMax);
-            columns[currentColumn].transform.position = new Vector2(spawnXPosition, spawnYPosition);
+            if (currentColumn >= columnPoolSize / 2)
+                columns[currentColumn].transform.position = new Vector2(spawnXPosition + 2.2f, spawnYPosition);
+            else
+                columns[currentColumn].transform.position = new Vector2(spawnXPosition, spawnYPosition);
             currentColumn++;
             if (currentColumn >= columnPoolSize)
             {
