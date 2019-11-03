@@ -14,7 +14,7 @@ public class Wait : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.touchCount > 0)
         {
             SceneManager.LoadScene(1);
         }

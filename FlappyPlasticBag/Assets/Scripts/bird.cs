@@ -22,7 +22,7 @@ public class bird : MonoBehaviour
     {
         if (isDead==false)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.touchCount > 0)
             {
                 rb2d.velocity = Vector2.zero;
                 rb2d.AddForce(new Vector2(0, upForce));
