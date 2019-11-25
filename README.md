@@ -2,6 +2,7 @@
 ## Project Name: Flappy Plastic Bag
 ## Team Name: Master of Unity (MoU)
 ## Boycott plastic bags like the way you boycotted Flappy Bird!
+## Flappy Bird clone with the mind of environmentalist!
 |Student ID|Fullname  |
 |--|--|
 |1612865|Tan-Khang Luong|
@@ -9,6 +10,12 @@
 
 ## Product
 https://flappy-plastic-bag.herokuapp.com/
+
+## Trailer
+[![](http://img.youtube.com/vi/aD3LYOl-dbs/0.jpg)](http://www.youtube.com/watch?v=aD3LYOl-dbs "")
+
+## Poster
+![Poster](Poster.png)
 
 ## Unity Version
 2019.1.14f1
