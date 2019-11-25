@@ -9,6 +9,10 @@
 
 ## Product
 https://flappy-plastic-bag.herokuapp.com/
+
+## Unity Version
+2019.1.14f1
+
 ## Resources
 
 1. https://www.spriters-resource.com/ds_dsi/pokemonblackwhite/sheet/36577/
