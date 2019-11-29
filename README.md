@@ -15,7 +15,7 @@ https://flappy-plastic-bag.herokuapp.com/
 [![](http://img.youtube.com/vi/aD3LYOl-dbs/0.jpg)](http://www.youtube.com/watch?v=aD3LYOl-dbs "")
 
 ## Poster
-![Poster](FlappyPlasticBag_Poster.jpg)
+![FlappyPlasticBag_Poster.jpg](FlappyPlasticBag_Poster.jpg)
 
 ## Unity Version
 2019.1.14f1
