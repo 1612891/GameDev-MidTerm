@@ -13,6 +13,7 @@ public class GameControl : MonoBehaviour
     public GameObject gameHighScoreText;
     public Text highScoreText;
     public Text ScoreText;
+    public Text superText;
     public bool gameOver = false;
     public float scrollSpeed = -1.5f;
     public bool isFog = false;
@@ -24,13 +25,23 @@ public class GameControl : MonoBehaviour
     public AudioSource pointSound;
     public AudioSource changeSound;
     private int score = 0;
+    private int super = 0;
 
     public GameObject polluter;
     public GameObject seed;
     public GameObject activeObject;
 
+    public bool isSuper;
+    public float superDuration;
+
     public bool isSwitch = false;
     public bool isExit = false;
+    private float spawnRate = 4f;
+    private float alphaSpawn = 0.83f;
+
+
+    public int playMode;
+    float alpha = 1.2f;
 
     void GoToHell(GameObject go)
     {
@@ -55,17 +66,43 @@ public class GameControl : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        playMode = PlayerPrefs.GetInt("mode", 0);
+        switch (playMode)
+        {
+            case 0:
+                scrollSpeed = -1.5f;
+                alpha = 1.2f;
+                spawnRate = 4f;
+                alphaSpawn = 0.83f;
+                break;
+            case 1:
+                scrollSpeed = -2.592f;
+                alpha = 1.0f;
+                spawnRate = 2.3f;
+                alphaSpawn = 1.0f;
+                break;
+
+        }
+        GoToHell(seed);
         BringToLife(polluter);
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (gameOver == true && Input.GetKeyDown(KeyCode.Space))
+        for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
+            Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
+        }
+        if (gameOver == true)
+        {
+            if (Input.GetKeyDown(KeyCode.Escape))
+                SceneManager.LoadScene(0);
+            if (Input.GetKeyDown(KeyCode.Space))
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         } else
         {
+            superText.text = "Super x" + super.ToString();
             if (isExit && isSwitch)
             {
                 changeSound.Play();
@@ -81,11 +118,48 @@ public class GameControl : MonoBehaviour
                     BringToLife(polluter);
                 }
                 isSwitch = false;
-                //isExit = false;
+            }
+            if (Input.GetKeyDown(KeyCode.S))
+            {
+                ActiveSuperHero();
+            }
+            if (isSuper)
+            {
+                superDuration -= Time.deltaTime;
+                Debug.Log(superDuration);
+                if (superDuration <= 0)
+                {
+                    isSuper = false;
+                    superDuration = 0f;
+                }
+            } else
+            {
+                //for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
+                //{
+                //    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), false);
+                //    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), false);
+                //}
             }
         }
     }
 
+    public void ActiveSuperHero()
+    {
+        if (super > 0)
+        {
+            if (superDuration <= 0)
+            {
+                for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
+                {
+                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
+                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
+                }
+            }
+            super -= 1;
+            isSuper = true;
+            superDuration += 5f;
+        }
+    }
     public void BirdScore()
     {
         if (gameOver)
@@ -97,6 +171,7 @@ public class GameControl : MonoBehaviour
         pointSound.Play();
         if (score % scoreTheshold == 0)
         {
+            super += 10;
             isSwitch = true;
             D2FogsPE d = Camera.main.GetComponent<D2FogsPE>();
             isFog = !isFog;
@@ -108,8 +183,10 @@ public class GameControl : MonoBehaviour
             {
                 d.Density = 0f;
             }
-            scrollSpeed *= 1.2f;
-            GetComponent<ColumnPool>().spawnRate *= 0.83f;
+
+            scrollSpeed *= alpha;
+            spawnRate *= alphaSpawn;
+            GetComponent<ColumnPool>().spawnRate = spawnRate;
             
         }
     }
@@ -118,26 +195,13 @@ public class GameControl : MonoBehaviour
     {
         gameOverText.SetActive(true);
         gameHighScoreText.SetActive(true);
-        //string path = "Assets/Resources/high_score.txt";
-        //StreamReader reader = new StreamReader(path);
-        //string content = reader.ReadToEnd();
-        //reader.Close();
-        //int highScore = int.Parse(content);
-        //if (highScore <= score)
-        //{
-        //    highScore = score;
-        //}
-        //highScoreText.text = highScore.ToString();
-        //StreamWriter writer = new StreamWriter(path, false);
-        //writer.WriteLine(highScore.ToString());
-        //writer.Close();
-        int highScore = PlayerPrefs.GetInt("high_score", 0);
+        int highScore = PlayerPrefs.GetInt("high_score_" + playMode.ToString(), 0);
         if (highScore <= score)
         {
             highScore = score;
         }
         highScoreText.text = highScore.ToString();
-        PlayerPrefs.SetInt("high_score", highScore);
+        PlayerPrefs.SetInt("high_score_" + playMode.ToString(), highScore);
         gameOver = true;
     }
 }
