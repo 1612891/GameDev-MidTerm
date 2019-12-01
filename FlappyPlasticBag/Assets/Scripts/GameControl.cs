@@ -14,6 +14,7 @@ public class GameControl : MonoBehaviour
     public Text highScoreText;
     public Text ScoreText;
     public Text superText;
+    public Text durationText;
     public bool gameOver = false;
     public float scrollSpeed = -1.5f;
     public bool isFog = false;
@@ -89,11 +90,6 @@ public class GameControl : MonoBehaviour
 
     void Update()
     {
-        for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
-        {
-            Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
-            Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
-        }
         if (gameOver == true)
         {
             if (Input.GetKeyDown(KeyCode.Escape))
@@ -132,13 +128,23 @@ public class GameControl : MonoBehaviour
                     isSuper = false;
                     superDuration = 0f;
                 }
+                for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
+                {
+                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[0], true);
+                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[1], true);
+                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[0], true);
+                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[1], true);
+                }
+                durationText.text = superDuration.ToString() + "s";
             } else
             {
-                //for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
-                //{
-                //    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), false);
-                //    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), false);
-                //}
+                for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
+                {
+                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[0], false);
+                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[1], false);
+                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[0], false);
+                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentsInChildren<PolygonCollider2D>()[1], false);
+                }
             }
         }
     }
@@ -147,17 +153,12 @@ public class GameControl : MonoBehaviour
     {
         if (super > 0)
         {
-            if (superDuration <= 0)
-            {
-                for (int i = 0; i < GetComponent<ColumnPool>().columnPoolSize; i++)
-                {
-                    Physics2D.IgnoreCollision(polluter.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
-                    Physics2D.IgnoreCollision(seed.GetComponent<PolygonCollider2D>(), GetComponent<ColumnPool>().columns[i].GetComponentInChildren<PolygonCollider2D>(), true);
-                }
-            }
             super -= 1;
             isSuper = true;
-            superDuration += 5f;
+            if (playMode == 1)
+                superDuration += 5f;
+            else
+                superDuration += 3f;
         }
     }
     public void BirdScore()
@@ -171,7 +172,7 @@ public class GameControl : MonoBehaviour
         pointSound.Play();
         if (score % scoreTheshold == 0)
         {
-            super += 10;
+            super += 1;
             isSwitch = true;
             D2FogsPE d = Camera.main.GetComponent<D2FogsPE>();
             isFog = !isFog;
