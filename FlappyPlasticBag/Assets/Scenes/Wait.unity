@@ -504,11 +504,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4b1c4bb0672b4942b18c86a60bc10ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  columnPoolSize: 0
   columnPrefab: {fileID: 2059787810644376508, guid: 9ce4e2af8612342fca253efe4a6f362f,
     type: 3}
   columnTreePrefab: {fileID: 6351370678858355597, guid: 6bf635cf54ffa4ac9974e9e52c0fb86d,
     type: 3}
   spawnRate: 4
+  columns: []
 --- !u!114 &668194455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -525,6 +527,8 @@ MonoBehaviour:
   gameHighScoreText: {fileID: 0}
   highScoreText: {fileID: 0}
   ScoreText: {fileID: 5908092}
+  superText: {fileID: 0}
+  durationText: {fileID: 0}
   gameOver: 0
   scrollSpeed: -1.5
   isFog: 0
@@ -537,8 +541,11 @@ MonoBehaviour:
   polluter: {fileID: 1666075910}
   seed: {fileID: 0}
   activeObject: {fileID: 0}
+  isSuper: 0
+  superDuration: 0
   isSwitch: 0
   isExit: 0
+  playMode: 0
 --- !u!4 &668194456
 Transform:
   m_ObjectHideFlags: 0
@@ -1317,8 +1324,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1406754047
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -7874597947770295309, guid: 04fee7506063b4a7dbfce349a76042e1,
     type: 3}
