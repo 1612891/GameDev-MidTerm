@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: -5941979495943906297
     second: Custom Edited - Pokemon Generation 1 Customs - 109 Koffing_7
+  - first:
+      213: 6991622219751325661
+    second: Custom Edited - Pokemon Generation 1 Customs - 109 Koffing_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -274,7 +277,7 @@ TextureImporter:
         width: 42
         height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -282,6 +285,27 @@ TextureImporter:
       bones: []
       spriteID: 400942782cbe94ab68ed8973efc7f163
       internalID: -5941979495943906297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 109 Koffing_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec286f96c0e4cedb9e8a27ad801ece
+      internalID: 6991622219751325661
       vertices: []
       indices: 
       edges: []

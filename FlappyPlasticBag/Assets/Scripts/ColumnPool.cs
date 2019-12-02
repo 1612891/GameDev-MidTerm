@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ColumnPool : MonoBehaviour
 {
-    private int columnPoolSize = 0;
+    public int columnPoolSize = 0;
     public GameObject columnPrefab;
     public GameObject columnTreePrefab;
 
@@ -12,17 +12,21 @@ public class ColumnPool : MonoBehaviour
     private float comlumnMin = -2f;
     private float columnMax = 2f;
 
-    private GameObject[] columns;
+    public GameObject[] columns;
     private Vector2 objectPoolPosition = new Vector2(-15f,-25f);
     private float timeSinceLastSpawned;
-    private float spawnXPosition = 10f;
+    private float spawnXPosition;
     private int currentColumn = 0;
+    private float[] columnState;
+
+    const float spawnX = 10.0f;
 
     // Start is called before the first frame update
     void Start()
     {
         columnPoolSize = GameControl.instance.scoreTheshold * 2;
         columns = new GameObject[columnPoolSize];
+        columnState = new float[columnPoolSize];
         for (int i = 0; i < columnPoolSize / 2; i++)
         {
             columns[i] = (GameObject)Instantiate(columnTreePrefab, objectPoolPosition, Quaternion.identity);
@@ -32,6 +36,14 @@ public class ColumnPool : MonoBehaviour
         {
             columns[i] = (GameObject)Instantiate(columnPrefab, objectPoolPosition, Quaternion.identity);
 
+        }
+        for (int i = 0; i < columnPoolSize; i++)
+        {
+            
+            if (Random.Range(0, 10) > 5)
+                columnState[i] = 1.0f;
+            else
+                columnState[i] = -1.0f;
         }
 
     }
@@ -45,13 +57,25 @@ public class ColumnPool : MonoBehaviour
             timeSinceLastSpawned = 0;
             float spawnYPosition = Random.Range(comlumnMin, columnMax);
             if (currentColumn >= columnPoolSize / 2)
-                columns[currentColumn].transform.position = new Vector2(spawnXPosition + 2.2f, spawnYPosition);
+                spawnXPosition = spawnX + 2.2f;
             else
-                columns[currentColumn].transform.position = new Vector2(spawnXPosition, spawnYPosition);
+                spawnXPosition = spawnX;
+            columns[currentColumn].transform.position = new Vector2(spawnXPosition, spawnYPosition);
             currentColumn++;
             if (currentColumn >= columnPoolSize)
             {
                 currentColumn = 0;
+            }
+        }
+        if (GameControl.instance.playMode == 1)
+        {
+            for (int i = 0; i < columnPoolSize; i++)
+            {
+                float y = columns[i].transform.position.y + columnState[i] * 0.025f;
+                float x = columns[i].transform.position.x;
+                columns[i].transform.position = new Vector2(x, y);
+                if (y < comlumnMin || y > columnMax)
+                    columnState[i] *= -1.0f;
             }
         }
     }
