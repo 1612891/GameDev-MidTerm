@@ -531,8 +531,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -519.25, y: -128}
-  m_SizeDelta: {x: 1038.5, y: 310.9}
+  m_AnchoredPosition: {x: -389.5, y: -107}
+  m_SizeDelta: {x: 855, y: 266.7}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1341644564
 MonoBehaviour:
@@ -556,7 +556,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 35
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -594,6 +594,7 @@ GameObject:
   - component: {fileID: 1721570120}
   - component: {fileID: 1721570119}
   - component: {fileID: 1721570118}
+  - component: {fileID: 1721570121}
   m_Layer: 5
   m_Name: Back
   m_TagString: Untagged
@@ -664,8 +665,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: QuitGame
+      - m_Target: {fileID: 1721570121}
+        m_MethodName: BackMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -714,6 +715,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721570116}
   m_CullTransparentMesh: 0
+--- !u!114 &1721570121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1721570116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36efd392c40b24091b3cc00c63877d32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1728090200
 GameObject:
   m_ObjectHideFlags: 0

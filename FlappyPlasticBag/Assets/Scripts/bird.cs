@@ -23,8 +23,10 @@ public class bird : MonoBehaviour
     {
         if (isDead==false)
         {
+            animStr = "";
             if (GameControl.instance.isSuper)
-                animStr = "";
+                animStr = "Super";
+                
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 rb2d.velocity = Vector2.zero;
