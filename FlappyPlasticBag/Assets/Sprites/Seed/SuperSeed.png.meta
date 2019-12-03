@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: ee6e3714944ec4a1eb8275a0727ec309
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1017654772390859642
+    second: SuperSeed_0
+  - first:
+      213: 1267324329431799120
+    second: SuperSeed_1
+  - first:
+      213: -4352728717733214137
+    second: SuperSeed_2
+  - first:
+      213: 8637312006859673572
+    second: SuperSeed_3
+  - first:
+      213: 7903232124299499491
+    second: SuperSeed_4
+  - first:
+      213: -4584184731511526452
+    second: SuperSeed_5
+  - first:
+      213: 3897086656161603197
+    second: SuperSeed_6
+  - first:
+      213: 1608599899821947669
+    second: SuperSeed_7
+  - first:
+      213: -8102205767647717168
+    second: SuperSeed_8
+  - first:
+      213: -5244726295958674717
+    second: SuperSeed_9
+  - first:
+      213: 6011960183275898564
+    second: SuperSeed_10
+  - first:
+      213: 3842230445992877223
+    second: SuperSeed_11
+  - first:
+      213: 1539322334706469338
+    second: SuperSeed_12
+  - first:
+      213: 7274859930523039620
+    second: SuperSeed_13
+  - first:
+      213: 3122075407525334331
+    second: SuperSeed_14
+  - first:
+      213: -770997960305049462
+    second: SuperSeed_15
+  - first:
+      213: -4559834056274988328
+    second: SuperSeed_16
+  - first:
+      213: -3683010351465719982
+    second: SuperSeed_17
+  - first:
+      213: 3740900260390330478
+    second: SuperSeed_18
+  - first:
+      213: -7539471322410813070
+    second: SuperSeed_19
+  - first:
+      213: -3242327675594376530
+    second: SuperSeed_20
+  - first:
+      213: 524977520609908794
+    second: SuperSeed_21
+  - first:
+      213: -5603639281319161940
+    second: SuperSeed_22
+  - first:
+      213: 815561410369646033
+    second: SuperSeed_23
+  - first:
+      213: 3626671112581996611
+    second: SuperSeed_24
+  - first:
+      213: -3734205533108589532
+    second: SuperSeed_25
+  - first:
+      213: -7738807196395951979
+    second: SuperSeed_26
+  - first:
+      213: -3218549239159721975
+    second: SuperSeed_27
+  - first:
+      213: 7016380312442324967
+    second: SuperSeed_28
+  - first:
+      213: 6004948136121765297
+    second: SuperSeed_29
+  - first:
+      213: -1589594790325430297
+    second: SuperSeed_30
+  - first:
+      213: 4633806954471089775
+    second: SuperSeed_31
+  - first:
+      213: -5154741598682113291
+    second: SuperSeed_32
+  - first:
+      213: 3161193679497748028
+    second: SuperSeed_33
+  - first:
+      213: -1493418763852564659
+    second: SuperSeed_34
+  - first:
+      213: -2211777272867256293
+    second: SuperSeed_35
+  - first:
+      213: -2571613898613372195
+    second: SuperSeed_36
+  - first:
+      213: -3639677404149719232
+    second: SuperSeed_37
+  - first:
+      213: -3570145815948300764
+    second: SuperSeed_38
+  - first:
+      213: -6986585036061817908
+    second: SuperSeed_39
+  - first:
+      213: -8470925683876949013
+    second: SuperSeed_40
+  - first:
+      213: 8087197132256546652
+    second: SuperSeed_41
+  - first:
+      213: 4161337826294691594
+    second: SuperSeed_42
+  - first:
+      213: -6299298636392591485
+    second: SuperSeed_43
+  - first:
+      213: -3105453969538844694
+    second: SuperSeed_44
+  - first:
+      213: -2313808240020980033
+    second: SuperSeed_45
+  - first:
+      213: 413083277073551098
+    second: SuperSeed_46
+  - first:
+      213: 5192769078372588519
+    second: SuperSeed_47
+  - first:
+      213: -1760128473190445298
+    second: SuperSeed_48
+  - first:
+      213: -3055834977209582430
+    second: SuperSeed_49
+  - first:
+      213: 6034186542991547408
+    second: SuperSeed_50
+  - first:
+      213: 8866927171550665972
+    second: SuperSeed_51
+  - first:
+      213: -68675682808964573
+    second: SuperSeed_52
+  - first:
+      213: -3949487895274302367
+    second: SuperSeed_53
+  - first:
+      213: -7331394051424018695
+    second: SuperSeed_54
+  - first:
+      213: 260483622712432261
+    second: SuperSeed_55
+  - first:
+      213: -3804478964524604443
+    second: SuperSeed_56
+  - first:
+      213: -5753930765996363761
+    second: SuperSeed_57
+  - first:
+      213: -856299524186837562
+    second: SuperSeed_58
+  - first:
+      213: -192410337398600718
+    second: SuperSeed_59
+  - first:
+      213: -7625870191779325082
+    second: SuperSeed_60
+  - first:
+      213: -2082173980809318749
+    second: SuperSeed_61
+  - first:
+      213: -3630575251036119315
+    second: SuperSeed_62
+  - first:
+      213: 8058246468772491185
+    second: SuperSeed_63
+  - first:
+      213: -1123819046564017090
+    second: SuperSeed_64
+  - first:
+      213: -3594731481461220074
+    second: SuperSeed_65
+  - first:
+      213: -7358935938607923896
+    second: SuperSeed_66
+  - first:
+      213: -1895552004232337823
+    second: SuperSeed_67
+  - first:
+      213: -3921414996196958445
+    second: SuperSeed_68
+  - first:
+      213: -245801666559400230
+    second: SuperSeed_69
+  - first:
+      213: 2228452483654718664
+    second: SuperSeed_70
+  - first:
+      213: 3133006279785566155
+    second: SuperSeed_71
+  - first:
+      213: -815843602940627214
+    second: SuperSeed_72
+  - first:
+      213: -6970418562165985949
+    second: SuperSeed_73
+  - first:
+      213: 2736006535501071321
+    second: SuperSeed_74
+  - first:
+      213: 5826971751678677433
+    second: SuperSeed_75
+  - first:
+      213: -1247880714475224003
+    second: SuperSeed_76
+  - first:
+      213: 3855429938609017261
+    second: SuperSeed_77
+  - first:
+      213: 8263607796525718074
+    second: SuperSeed_78
+  - first:
+      213: 7607276401748901978
+    second: SuperSeed_79
+  - first:
+      213: 5771892107513202785
+    second: SuperSeed_80
+  - first:
+      213: 478180043824936350
+    second: SuperSeed_81
+  - first:
+      213: -8073100081657121042
+    second: SuperSeed_82
+  - first:
+      213: -1450514526344222832
+    second: SuperSeed_83
+  - first:
+      213: -2688993219761253191
+    second: SuperSeed_84
+  - first:
+      213: -4981215340652691706
+    second: SuperSeed_85
+  - first:
+      213: 1113188227125633965
+    second: SuperSeed_86
+  - first:
+      213: -117572467873643332
+    second: SuperSeed_87
+  - first:
+      213: 6111545558037943518
+    second: SuperSeed_88
+  - first:
+      213: 4403687447177179972
+    second: SuperSeed_89
+  - first:
+      213: -8133707343646838680
+    second: SuperSeed_90
+  - first:
+      213: -8222656711987898969
+    second: SuperSeed_91
+  - first:
+      213: -4943886760046478473
+    second: SuperSeed_92
+  - first:
+      213: 5111465925708331902
+    second: SuperSeed_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperSeed_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 427
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b066df853cba4136a9da454d1acf60e
+      internalID: 1017654772390859642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 427
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d67318136446ebb72cda75f1d55f1
+      internalID: 1267324329431799120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 425
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b95409f1b28446190b0b1c31520e74
+      internalID: -4352728717733214137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 424
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b131aae7154a58b4f0c0714f28633
+      internalID: 8637312006859673572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 425
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9e814f4b7741a88478c970238a467
+      internalID: 7903232124299499491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d48bb1fa024d79ab686176c783dbd
+      internalID: -4584184731511526452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55524536c8fb0422cae9ce3faabbbf37
+      internalID: 3897086656161603197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 411
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7bcbbc501a49c1b99ddab6ab91ee6
+      internalID: 1608599899821947669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfe3efbb597458986daee52e29ebcd
+      internalID: -8102205767647717168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8c8b77bc064aaf96ee2c0ce71fead
+      internalID: -5244726295958674717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d6c7e9f0fa450b882c545a57aefaf
+      internalID: 6011960183275898564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 382
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e516699cfeef4cbdafe9ed51e69e2d4
+      internalID: 3842230445992877223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 381
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4253b5034fb294487a70e1f1aa04e98e
+      internalID: 1539322334706469338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 382
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f70bf3213b844ab8cc1d7259865f6f
+      internalID: 7274859930523039620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 382
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82ec4ccd8164e88a4293211e48f7ee
+      internalID: 3122075407525334331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 328
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d9cc281ede14295bfa21b6a3a89f5b
+      internalID: -770997960305049462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52be81d9844f4abe9d666915566c4ea
+      internalID: -4559834056274988328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e0d3f52a294645b32e9834fbdc772
+      internalID: -3683010351465719982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c22c9453cb438eba1c859c1703d26
+      internalID: 3740900260390330478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a90b830e629426b9aaf0056af0565e
+      internalID: -7539471322410813070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 323
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e3826a0542442cc8a0d6d69f0e2476
+      internalID: -3242327675594376530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 315
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030da0c2c676e4d48980bdca6cf357a6
+      internalID: 524977520609908794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a8119cb4efa4b4eba9e993443e74d3
+      internalID: -5603639281319161940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc9f420f7aae4e119b3b0babbf15486
+      internalID: 815561410369646033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6752ea85d84f5d81a75f7830c19cc
+      internalID: 3626671112581996611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 315
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7409a25520940c28fcd8487418246a
+      internalID: -3734205533108589532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 315
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a76c4dc792b4e50893962409e141de
+      internalID: -7738807196395951979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 315
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb2b48095a3a46c999aa1af79775bf0
+      internalID: -3218549239159721975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f4f301151a4368b5d2b3ec5c0d355
+      internalID: 7016380312442324967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 268
+        width: 222
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024bfc563d394a7992fd192003b25e8
+      internalID: 6004948136121765297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194daa4d249a241b1be0f34918d94056
+      internalID: -1589594790325430297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 223
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cb1777b88b40a1b80c8ec0a129b30
+      internalID: 4633806954471089775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ad0d430c1447969c000ebdcfd1465
+      internalID: -5154741598682113291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdea807b5614a2698095ca936a00f8
+      internalID: 3161193679497748028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 223
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f8520f7a4848cc8ccf7ebf17ae8bd
+      internalID: -1493418763852564659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 223
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a126819930b54340879fb098e483697
+      internalID: -2211777272867256293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_36
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d651aa22cf44eb9f78ff64ae7591a
+      internalID: -2571613898613372195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652c93b94b734f37bde8049393da657
+      internalID: -3639677404149719232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 214
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828c045ac68b4d64b88cd8e11eb9929
+      internalID: -3570145815948300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 214
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52137334f5191405d8a49868e2c60117
+      internalID: -6986585036061817908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 215
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11be167089d948228f2be56d3a71a8f
+      internalID: -8470925683876949013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 215
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda7d6769d7894a03bfc74c83fa53e5e
+      internalID: 8087197132256546652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf7adc0333d4fd18871cc98809b179
+      internalID: 4161337826294691594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55df70644274d05be6d0ea597b7e7f
+      internalID: -6299298636392591485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02c6cbac9b345489675f3f64366d62
+      internalID: -3105453969538844694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6460c758134d4dfa9e4246c7e20cc52
+      internalID: -2313808240020980033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 174
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d6172df884498b8b6074f8678e3ef
+      internalID: 413083277073551098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 156
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363e02119682480dbcc7a502d08b77a
+      internalID: 5192769078372588519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 156
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d377ba12b04e10bdf4ec3fb362c2f
+      internalID: -1760128473190445298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 156
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e1da8355094e2894ff3517e2e6f73
+      internalID: -3055834977209582430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 156
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2a4575f51704c1481a3ef3cac564f4
+      internalID: 6034186542991547408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 46
+        width: 186
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d08ba55a0f948b6bc12657453935b0
+      internalID: 8866927171550665972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673752acc9ef404f96cfd6b5f61f535
+      internalID: -68675682808964573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0735d352d151846b3a560a4504b6f728
+      internalID: -3949487895274302367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b448d6948ac424aa7b3f923fb26127
+      internalID: -7331394051424018695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3047b482dd9c34df89fd7a6ff198df80
+      internalID: 260483622712432261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25935048a3f4adba39b143188aa2d9
+      internalID: -3804478964524604443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b97087ee144a41b2b57b4fd6de6bf
+      internalID: -5753930765996363761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0618fc21e9248b69fe898134f953a7
+      internalID: -856299524186837562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d082a63931444fc5ac003048ddd2ef9
+      internalID: -192410337398600718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f6e6a48a524db1bf060dba507d948
+      internalID: -7625870191779325082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_61
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e86ea8f323c4e5cb17550485a0b7a0
+      internalID: -2082173980809318749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a035548b715947fb8f711268854ce05
+      internalID: -3630575251036119315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_63
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea66563ac5b48d5ac02f52b5798fd3
+      internalID: 8058246468772491185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf3f9f1beac45588c4fbd15a7cbcd9
+      internalID: -1123819046564017090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9e27536f5b3439382db3a2660ade04
+      internalID: -3594731481461220074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359fe38cef4c948989ec99a52717bbc5
+      internalID: -7358935938607923896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59b5fbe1a7e4230b4691d1662ac59e
+      internalID: -1895552004232337823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ffde29a89ff48b1802fe1398c08133
+      internalID: -3921414996196958445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5864339e65be4477bea6058a9b9f865
+      internalID: -245801666559400230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 115
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd053607c60546f3a8144da88662993
+      internalID: 2228452483654718664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c34d3d68cbe42409af801f13852512
+      internalID: 3133006279785566155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c46e3564c874a5983eaa665201abc2
+      internalID: -815843602940627214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f199df873345a59aefd590ff34b6e
+      internalID: -6970418562165985949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fbf73b150814731847006312cd91cb
+      internalID: 2736006535501071321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 85
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96a95cb76f34eee80f512943032da2
+      internalID: 5826971751678677433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 68
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d24e1cfa631c40e58f8b772682bfcd6
+      internalID: -1247880714475224003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_77
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 68
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c2f95328f74499a943f2e64f62f1b
+      internalID: 3855429938609017261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e2c8d8e8c0b4026bce99cdc2f1fd64
+      internalID: 8263607796525718074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f1ccd11df8491a86c44cf58d7c9a2
+      internalID: 7607276401748901978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_80
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bea735ebe084c1289638f32813de57
+      internalID: 5771892107513202785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b423c93a35dd49668faf1f42319ccc9
+      internalID: 478180043824936350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009b67b4a7a74207b45c51e112fedf7
+      internalID: -8073100081657121042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb47b92884d69489bafff139734aada6
+      internalID: -1450514526344222832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 72
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2541b61ee574c29bd779935fdff9c6
+      internalID: -2688993219761253191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 72
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680bc11fc755458db638e567ccdcb4a
+      internalID: -4981215340652691706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f35cc647f2473c8e755fc7ac24c13
+      internalID: 1113188227125633965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_87
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ecb5caef6b40a1876a4dfd0372eb5
+      internalID: -117572467873643332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d73bcf4a7da243a695166e7e73df756
+      internalID: 6111545558037943518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_89
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429954ccaf5bd43b998153453633dfd9
+      internalID: 4403687447177179972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 15
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b459befe484a21ae1bac51e31744f
+      internalID: -8133707343646838680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb78fa3cfcf4caa8ac35bc000e578e
+      internalID: -8222656711987898969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2dc8bfb87fe4e2f8598932f5805fe8
+      internalID: -4943886760046478473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperSeed_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec35d5c4900c4110beaa9ef9960a1e2
+      internalID: 5111465925708331902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 739f2547ec571407c8fdb32f2618c480
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
